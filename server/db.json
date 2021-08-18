@@ -1,0 +1,29 @@
+{
+  "streams": [
+    {
+      "title": "titulo",
+      "description": "asdasd",
+      "id": 1
+    },
+    {
+      "title": "titulo",
+      "description": "asdasd",
+      "id": 2
+    },
+    {
+      "title": "Titulo nuevo",
+      "description": "Tu vieja",
+      "id": 3
+    },
+    {
+      "title": "Titulo nuevo",
+      "description": "Tu vieja",
+      "id": 4
+    },
+    {
+      "title": "Jorge2",
+      "description": "asd",
+      "id": 5
+    }
+  ]
+}
